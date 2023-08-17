@@ -1,4 +1,4 @@
-# cli_note_taking_app
+# add notes directly from your terminal
 
 to run the application
 - clone the repo
